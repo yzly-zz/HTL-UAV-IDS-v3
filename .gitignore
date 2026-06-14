@@ -1,0 +1,17 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+src/web_gcs/node_modules/
+src/web_gcs/dist/
+src/web_gcs/.vite/
+
+data/raw/
+logs/*.jsonl
+release/
+
+Thumbs.db
+.DS_Store

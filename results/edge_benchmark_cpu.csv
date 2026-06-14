@@ -1,0 +1,9 @@
+model,avg_latency_ms,throughput_sps,total_params,trainable_params,memory_mb
+HTL-UAV-IDS (Ours),0.6155,1624.6,8130,8130,0.03
+MLP,0.0523,19111.0,14146,14146,0.05
+Standard 1D-CNN,0.1533,6523.5,6466,6466,0.02
+LSTM,2.9758,336.0,50562,50562,0.19
+MobileNet1D,0.8709,1148.2,7973,7973,0.03
+LightTransformer,0.35,2856.9,69954,69954,0.27
+HTL-noProj,0.6059,1650.4,5122,5122,0.02
+HTL-stdConv,0.3519,2841.9,13106,13106,0.05
